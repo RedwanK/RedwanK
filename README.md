@@ -4,27 +4,6 @@ Ingénieur en informatique | Spécialisé en développement logiciel & Conceptio
 Je conçois et déploie des solutions IIoT de bout en bout, de la donnée terrain à son exploitation métier.  
 Mes travaux couvrent la maintenance prédictive, l’interconnexion de systèmes industriels (MES, ERP, SCADA), la collecte multi-protocoles et l’architecture Edge/Cloud.  
 
-## 🚀 Projet personnel – K.IoT  
-
-**Nom du projet :** K.IoT  
-**Type :** Projet personnel (R&D / Innovation)  
-**Technologies :** Symfony (backend), API REST, Agents IA, Mobile (iOS & Android)  
-
-### 🎯 Objectif  
-Développer une plateforme capable d’automatiser la **veille technologique** sur n’importe quel sujet, en s’appuyant sur des agents IA pour trouver, condenser et recommander des actualités pertinentes.  
-
-### ⚙️ Fonctionnalités principales  
-- **Backend Symfony** : gestion des utilisateurs, authentification, thèmes/sujets de veille, API REST.  
-- **Agents IA connectés** : recherche d’articles récents, extraction d’informations clés, génération de résumés.  
-- **Application mobile iOS & Android** : lecture des condensés, partage, archivage des contenus.  
-- **Personnalisation** : système de like/dislike permettant d’affiner l’algorithme de recommandation en fonction des préférences.  
-
-### 🌟 Valeur ajoutée  
-- Centralisation de la veille technologique sur un même outil.  
-- Gain de temps grâce aux **résumés intelligents** fournis par les IA.  
-- Mobilité avec l’app mobile pour consommer et interagir avec le contenu n’importe où.  
-- Apprentissage continu via les retours utilisateurs (like/dislike).  
-
 ## Publications et Réalisations
 ---
 
@@ -109,3 +88,23 @@ Article pédagogique sur le choix et l’utilisation des SSD dans un contexte pr
 
 📄 [Foire aux questions IoT](https://iot.integral-system.fr/fr_FR/foire-aux-questions)
 Réponses aux principales interrogations sur les solutions IoT et leur mise en œuvre.
+
+## Projet personnel – K.IoT  
+
+**Technologies :** Symfony (backend), API REST, Agents IA, Mobile (iOS & Android)  
+
+### Objectif  
+Développer une plateforme capable d’automatiser la **veille technologique** sur n’importe quel sujet, en s’appuyant sur des agents IA pour trouver, condenser et recommander des actualités pertinentes.  
+
+### Fonctionnalités principales  
+- **Backend Symfony** : gestion des utilisateurs, authentification, thèmes/sujets de veille, API REST.  
+- **Agents IA connectés** : recherche d’articles récents, extraction d’informations clés, génération de résumés.  
+- **Application mobile iOS & Android** : lecture des condensés, partage, archivage des contenus.  
+- **Personnalisation** : système de like/dislike permettant d’affiner l’algorithme de recommandation en fonction des préférences.  
+
+### Valeur ajoutée  
+- Centralisation de la veille technologique sur un même outil.  
+- Gain de temps grâce aux **résumés intelligents** fournis par les IA.  
+- Mobilité avec l’app mobile pour consommer et interagir avec le contenu n’importe où.  
+- Apprentissage continu via les retours utilisateurs (like/dislike).  
+
