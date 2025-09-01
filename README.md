@@ -1,13 +1,34 @@
-# Portfolio – Publications et Réalisations
 **Redwan Kara**  
 Ingénieur en informatique | Spécialisé en développement logiciel & Conception de solutions IoT
 
 Je conçois et déploie des solutions IIoT de bout en bout, de la donnée terrain à son exploitation métier.  
 Mes travaux couvrent la maintenance prédictive, l’interconnexion de systèmes industriels (MES, ERP, SCADA), la collecte multi-protocoles et l’architecture Edge/Cloud.  
 
+## 🚀 Projet personnel – K.IoT  
+
+**Nom du projet :** K.IoT  
+**Type :** Projet personnel (R&D / Innovation)  
+**Technologies :** Symfony (backend), API REST, Agents IA, Mobile (iOS & Android)  
+
+### 🎯 Objectif  
+Développer une plateforme capable d’automatiser la **veille technologique** sur n’importe quel sujet, en s’appuyant sur des agents IA pour trouver, condenser et recommander des actualités pertinentes.  
+
+### ⚙️ Fonctionnalités principales  
+- **Backend Symfony** : gestion des utilisateurs, authentification, thèmes/sujets de veille, API REST.  
+- **Agents IA connectés** : recherche d’articles récents, extraction d’informations clés, génération de résumés.  
+- **Application mobile iOS & Android** : lecture des condensés, partage, archivage des contenus.  
+- **Personnalisation** : système de like/dislike permettant d’affiner l’algorithme de recommandation en fonction des préférences.  
+
+### 🌟 Valeur ajoutée  
+- Centralisation de la veille technologique sur un même outil.  
+- Gain de temps grâce aux **résumés intelligents** fournis par les IA.  
+- Mobilité avec l’app mobile pour consommer et interagir avec le contenu n’importe où.  
+- Apprentissage continu via les retours utilisateurs (like/dislike).  
+
+## Publications et Réalisations
 ---
 
-## 🛠️ Maintenance Prédictive
+### 🛠️ Maintenance Prédictive
 
 📄 [Déploiement et exploitation de la maintenance prédictive sur le terrain](https://iot.integral-system.fr/fr_FR/maintenance-predictive/deploiement-et-exploitation-de-la-maintenance-predictive-sur-le-terrain) 
 Explique comment installer et exploiter une solution de maintenance prédictive directement sur site industriel.
@@ -29,7 +50,7 @@ Webinaire de 30 min sur IoTEdge, la collecte multi-protocoles, le calcul d’ind
 
 ---
 
-## 📊 IoTEdge & Collecte de Données
+### 📊 IoTEdge & Collecte de Données
 
 📄 [Décuplez la puissance de vos modules ADAM avec IoTEdge](https://iot.integral-system.fr/fr_FR/decuplez-la-puissance-de-vos-modules-adam-avec-iotedge) 
 Comment IoTEdge enrichit les modules ADAM pour aller plus loin dans l’exploitation de la donnée terrain.
@@ -45,7 +66,7 @@ Solution de monitoring énergétique simplifiée, orientée efficacité énergé
 
 ---
 
-## 🔌 Connectivité & Protocoles Industriels
+### 🔌 Connectivité & Protocoles Industriels
 
 📄 [Passerelles multi-protocoles industrielles](https://iot.integral-system.fr/fr_FR/passerelles-multi-protocoles-industrielles) 
 Présentation des passerelles pour l’interconnexion entre protocoles (Modbus, OPC UA, MQTT, etc.).
@@ -61,7 +82,7 @@ Article pédagogique sur les enjeux du marché IT industriel.
 
 ---
 
-## 🎤 Événements & Présentations
+### 🎤 Événements & Présentations
 
 📄 [Salon SIDO 2022](https://iot.integral-system.fr/fr_FR/evenements/salon-sido-2022)  
 📄 [Salon SIDO 2023](https://iot.integral-system.fr/fr_FR/evenements/salon-sido-2023)  
@@ -74,14 +95,14 @@ Article pédagogique sur les enjeux du marché IT industriel.
 
 ---
 
-## 💻 Logiciels & Développement
+### 💻 Logiciels & Développement
 
 📄 [Sylius – Comment mettre en place un mode catalogue](https://www.integral-service.fr/sylius-comment-mettre-en-place-un-mode-catalogue)
 Guide technique détaillant l’implémentation d’un mode catalogue dans Sylius (Symfony), incluant ajout de champs, extensions Twig et restrictions sur le tunnel d’achat.  
 
 ---
 
-## 💻 Autres Publications
+### 💻 Autres Publications
 
 📄 [Tout savoir sur les SSD professionnels](https://blog.integral-system.fr/tout-savoir-ssd-professionnel/)
 Article pédagogique sur le choix et l’utilisation des SSD dans un contexte professionnel et industriel.
