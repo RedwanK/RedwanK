@@ -89,6 +89,8 @@ Article pédagogique sur le choix et l’utilisation des SSD dans un contexte pr
 📄 [Foire aux questions IoT](https://iot.integral-system.fr/fr_FR/foire-aux-questions)
 Réponses aux principales interrogations sur les solutions IoT et leur mise en œuvre.
 
+---
+
 ## Projet personnel – K.IoT  
 
 **Technologies :** Symfony (backend), API REST, Agents IA, Mobile (iOS & Android)  
