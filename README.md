@@ -14,9 +14,11 @@ Présentation de la maintenance prédictive avec IoT + IA pour anticiper les dé
 
 🎥 [Centralisez et exploitez vos données avec IoTEdge ! | #REPLAY Webinaire](https://youtu.be/wcFxOs0v5ew)
 Webinaire de 30 min sur IoTEdge, la collecte multi-protocoles, le calcul d’indicateurs et les alertes configurables.  
+
 ---
 
 ### 🔌 Connectivité & Protocoles Industriels
+
 📄 [Qu’est-ce que LoRaWAN public vs privé ?](https://iot.integral-system.fr/fr_FR/quest-ce-que-lorawan-public-vs-prive)
 Analyse des différences entre réseaux publics et privés pour l’IoT industriel.
 
