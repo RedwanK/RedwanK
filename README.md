@@ -1,9 +1,6 @@
 **Redwan Kara**  
 Ingénieur en informatique | Spécialisé en développement logiciel & Conception de solutions digitales industrielles.
 
-Je conçois et déploie des solutions IIoT de bout en bout, de la donnée terrain à son exploitation métier.  
-Mes travaux couvrent la maintenance prédictive, l’interconnexion de systèmes industriels (MES, ERP, SCADA), la collecte multi-protocoles et l’architecture Edge/Cloud.  
-
 ## Publications et Réalisations
 ---
 
