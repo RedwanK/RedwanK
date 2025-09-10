@@ -1,6 +1,3 @@
-**Redwan Kara**  
-Ingénieur en informatique | Spécialisé en développement logiciel & Conception de solutions digitales industrielles.
-
 ## Publications et Réalisations
 
 
