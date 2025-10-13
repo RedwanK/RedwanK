@@ -68,23 +68,3 @@ Guide pratique pour appliquer la maintenance prédictive à des installations HV
 Explique comment installer et exploiter une solution de maintenance prédictive directement sur site industriel.
 
 ---
-
-## Projet personnel – K.IoT  
-
-**Technologies :** Symfony (backend), API REST, Agents IA, Mobile (iOS & Android)  
-
-### Objectif  
-Développer une plateforme capable d’automatiser la **veille technologique** sur n’importe quel sujet, en s’appuyant sur des agents IA pour trouver, condenser et recommander des actualités pertinentes.  
-
-### Fonctionnalités principales  
-- **Backend Symfony** : gestion des utilisateurs, authentification, thèmes/sujets de veille, API REST.  
-- **Agents IA connectés** : recherche d’articles récents, extraction d’informations clés, génération de résumés.  
-- **Application mobile iOS & Android** : lecture des condensés, partage, archivage des contenus.  
-- **Personnalisation** : système de like/dislike permettant d’affiner l’algorithme de recommandation en fonction des préférences.  
-
-### Valeur ajoutée  
-- Centralisation de la veille technologique sur un même outil.  
-- Gain de temps grâce aux **résumés intelligents** fournis par les IA.  
-- Mobilité avec l’app mobile pour consommer et interagir avec le contenu n’importe où.  
-- Apprentissage continu via les retours utilisateurs (like/dislike).  
-
