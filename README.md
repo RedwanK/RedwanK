@@ -1,6 +1,3 @@
-## Publications et Réalisations
-
-
 ### 🛠️ Maintenance Prédictive
 
 📄 [Tout savoir sur la maintenance prédictive](https://iot.integral-system.fr/fr_FR/tout-savoir-sur-la-maintenance-predictive)
