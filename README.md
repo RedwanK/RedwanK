@@ -24,18 +24,6 @@ Catalogue et explications sur les modules de collecte de données terrain.
 
 ---
 
-### 🎤 Événements & Présentations
-
-📄 [Salon SIDO 2022](https://iot.integral-system.fr/fr_FR/evenements/salon-sido-2022)  
-📄 [Salon SIDO 2023](https://iot.integral-system.fr/fr_FR/evenements/salon-sido-2023)  
-📄 [Industrie Time 2024](https://iot.integral-system.fr/fr_FR/evenements/industrie-time-2024)  
-📄 [LEAP Camp 2023 Paris](https://iot.integral-system.fr/fr_FR/evenements/leap-camp-2023-paris)  
-📄 [LEAP Camp 2024 Taiwan](https://iot.integral-system.fr/fr_FR/evenements/leap-camp-2024-taiwan)  
-📄 [LEAP Camp 2025 Taiwan](https://iot.integral-system.fr/fr_FR/evenements/leap-camp-2025-taiwan)  
-📄 [World Partner Conference 2023 – Advantech Taiwan](https://iot.integral-system.fr/fr_FR/evenements/world-partner-conference-2023-advantech-taiwan)  
-📄 [École technologique du CNRS](https://iot.integral-system.fr/fr_FR/evenements/4-ecole-technologique-du-cnrs)  
-
----
 
 ### 💻 Logiciels & Développement
 
